@@ -17,14 +17,10 @@
   <h3 align="center"></h3>
 
   <p align="center">
-    Gaming Blog with GraphCMS2022 No Database.
-    <br />
-    <br />
+    Gaming Blog with React Javascript and GraphCMS Api 2022.
     <br />
     <a href="https://dynamico-gaming.netlify.app/">View Demo</a>
-    ·
     <a href="https://github.com/omarashzeinhom/GraphCMS-and-ReactJS-Gaming-blog-/issues">Report Bug</a>
-    ·
     <a href="https://github.com/omarashzeinhom/GraphCMS-and-ReactJS-Gaming-blog-/issues">Request Feature</a>
   </p>
 </div>
