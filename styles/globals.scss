@@ -1,0 +1,67 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Calligraffitti&family=Pacifico&display=swap');
+
+body {
+  padding: 0;
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  &:before {
+    content: '';
+    content: '';
+    width: 100%;
+    height: 100vh;
+    font-weight: 100;
+    background-color: #000000;
+    background-image: linear-gradient(315deg, #000000 0%, #414141 74%);
+    /*background-image: url('../public/bg.jpg');*/
+    position: fixed;
+    left: 0;
+    top: 0;
+    z-index: -1;
+    background-position: 100% 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 150% 100%;
+    animation: gradient 5s ease infinite;
+  }
+}
+
+.text-shadow {
+  text-shadow: 0px 2px 0px rgb(0 0 0 / 30%);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1,
+h2,
+h3 {
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+@keyframes gradient {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.postinfo__calendar__icon {
+  place-items: center;
+  align-items: center;
+  justify-content: center;
+}
