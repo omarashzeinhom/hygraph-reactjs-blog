@@ -11,7 +11,7 @@
     <img src="img/logo.jpg" alt="Logo" width="150" height="150"/>
     </kbd>
 
-  <a href="https://github.com/omarashzeinhom/graphcms-gaming-blog">
+  <a href="https://github.com/omarashzeinhom/GraphCMS-and-ReactJS-Gaming-blog-">
   </a>
 
   <h3 align="center"></h3>
@@ -23,9 +23,9 @@
     <br />
     <a href="https://dynamico-gaming.netlify.app/">View Demo</a>
     ·
-    <a href="https://github.com/omarashzeinhom/gaming-graphcms-blog-auth/issues">Report Bug</a>
+    <a href="https://github.com/omarashzeinhom/GraphCMS-and-ReactJS-Gaming-blog-/issues">Report Bug</a>
     ·
-    <a href="https://github.com/omarashzeinhom/gaming-graphcms-blog-auth/issues">Request Feature</a>
+    <a href="https://github.com/omarashzeinhom/GraphCMS-and-ReactJS-Gaming-blog-/issues">Request Feature</a>
   </p>
 </div>
 
@@ -108,7 +108,7 @@ _Below is an example of how you can instruct your audience on installing and set
    
 2. Clone the repo
    ```sh
-   git clone https://github.com/omarashzeinhom/gaming-graphcms-blog-auth
+   git clone https://github.com/omarashzeinhom/GraphCMS-and-ReactJS-Gaming-blog-
    ```
 3. Install NPM packages
    ```sh
