@@ -183,7 +183,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Project Link: [https://github.com/omarashzeinhom/gaming-graphcms-blog-auth](https://github.com/omarashzeinhom/gaming-graphcms-blog-auth)
+My Personal Portofolio: [https://omarabdelrahman.netlify.app/](https://omarabdelrahman.netlify.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
