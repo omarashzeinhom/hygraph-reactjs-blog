@@ -10,7 +10,7 @@
     "@authentication/google": "^0.1.1",
     "@headlessui/react": "^1.5.0",
     "@heroicons/react": "^1.0.6",
-    "bcrypt": "^5.0.1",
+    "bcrypt": "^6.0.0",
     "flowbite": "^1.4.1",
     "graphql": "^16.3.0",
     "graphql-request": "^4.2.0",
